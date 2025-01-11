@@ -1,0 +1,12 @@
+{
+	"test_admin_1" : {
+	"role" : "Admin",
+	"status" : "Enabled",
+	"employee_name" : "FName Mname LName"
+	},
+	"test_user_1" : {
+	"role" : "ESS",
+	"status" : "Disabled",
+	"employee_name" : "FName Mname LName"
+	}
+}
